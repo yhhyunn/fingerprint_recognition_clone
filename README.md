@@ -1,7 +1,7 @@
 # fingerprint_recognition_clone
 
 Fingerprint recognition
-![fig4879.png](https://github.com/yhhyunn/fingerprint_recognition_clone/fig4879.png)
+![fig4879.png](https://github.com/yhhyunn/fingerprint_recognition_clone/raw/master/fig4879.png)
 
 ## Reference
 
